@@ -1,0 +1,13 @@
+.imageContainer {
+    height: 200px;
+    width: 100%;
+    display: flex;
+    margin-top: 10px;
+    justify-content: flex-start;
+}
+
+.image {
+    height: 200px;
+    width: 200px;
+    object-fit: cover;
+}
